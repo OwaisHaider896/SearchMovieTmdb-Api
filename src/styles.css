@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
+}
+.search {
+  min-width: 50%;
+  padding: 10px;
+}
+.btn {
+  padding: 10px 20px;
+  background-color: #24292e;
+  color: whitesmoke;
+  border: 1px solid whitesmoke;
+  margin-left: 5px;
+}
