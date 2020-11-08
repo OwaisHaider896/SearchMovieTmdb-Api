@@ -15,7 +15,7 @@ export default function App() {
       );
       const data = await response.json();
       setMovie(data.results);
-      //console.log(data);
+      console.log(data);
     } catch (error) {
       console.log(error);
     }
